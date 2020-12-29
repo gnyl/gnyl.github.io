@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Hogaak](/assets/images/hogaak-1.jpg)
+![Hogaak](/hogaak/assets/images/image.png)
 *Hogaak, Arisen Necropolis*
 
 <!-- <figure>

@@ -20,7 +20,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   - 2b
 - third
 
-![The Gaak](assets/images/hogaak-1.jpg)
+![Hogaak](/hogaak/assets/images/image.png)
 
 ```
 TESTsdfsd
